@@ -1,0 +1,3 @@
+name: EditPlayerStatus
+version: '${version}'
+main: org.pongchi.editplayerstatus.EditPlayerStatus
